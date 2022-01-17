@@ -1,6 +1,6 @@
 {
-  "name": "MFE PWA",
-  "short_name": "MFEPWA",
+  "name": "MfePwa",
+  "short_name": "MfePwa",
   "icons": [{
     "src": "images/hello-icon-128.png",
       "sizes": "128x128",
